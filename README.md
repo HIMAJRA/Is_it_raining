@@ -1,2 +1,1 @@
-# Python
-Is_it_raining
+# Is_it_raining
